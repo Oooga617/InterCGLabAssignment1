@@ -935,7 +935,7 @@ Transform:
   m_GameObject: {fileID: 802748238}
   serializedVersion: 2
   m_LocalRotation: {x: 0.063644886, y: -0.8797769, z: -0.000010251999, w: -0.4711072}
-  m_LocalPosition: {x: -19.51, y: 14.07, z: 30.11}
+  m_LocalPosition: {x: -19.51, y: 19.1, z: 30.11}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1615,7 +1615,7 @@ MonoBehaviour:
     LookAtTarget: {fileID: 0}
     CustomLookAtTarget: 0
   Lens:
-    FieldOfView: 42.5
+    FieldOfView: 42.8
     OrthographicSize: 10
     NearClipPlane: 0.1
     FarClipPlane: 5000
@@ -1766,17 +1766,25 @@ PlayableDirector:
     value: {fileID: 1331880328}
   m_ExposedReferences:
     m_References:
+    - deebe532a2a77fc49b19214107167aee: {fileID: 378643550}
     - 1b525b71597bf3048b2de0e617dd7f88: {fileID: 373981935}
     - 8ede60306d6e63c4ca8fa60c2a6687d2: {fileID: 1640655771}
     - 3f234dab6b806db4a81321d4795e9cc8: {fileID: 175772589}
+    - 1883b374c25921a4abd61ebbab1d20be: {fileID: 378643550}
     - e29695f4d1b55bb4a90b7b11db105135: {fileID: 1396870704}
     - 88695e3a0b0fb4047b47131e1ce97ab5: {fileID: 1269515649}
     - a134993d008f83d49a7a7fb006b92479: {fileID: 208022058}
+    - 28737b16acb17c744bfd5a3db25630bd: {fileID: 208022058}
+    - cd4f449db4e4b9446be8ef010ed36cd0: {fileID: 1761128685}
     - 29dd4e595cc61e040871be53636710eb: {fileID: 378643550}
     - 67f08a118e1478f4d81144263a836e79: {fileID: 1124559684}
     - 6c6f1ddcfda333b45be94f4fa4d5e24b: {fileID: 63511229}
+    - 06e36b4f475c28a499baeab9fda05a4a: {fileID: 378643550}
+    - af0c177330b608340a984202ff6d535f: {fileID: 378643550}
+    - 4bc544af1d5267e46848b96b599526e7: {fileID: 378643550}
     - d8717e8c7f9aab94180971066e24f389: {fileID: 802748239}
     - b48a7f2bbfd9caf4387ba4374621b32d: {fileID: 1761128685}
+    - 42e75c8081c53d64fb6da81038ec9acd: {fileID: 378643550}
     - 81fbf329cd000634faed8a8d88a09de8: {fileID: 984801094}
 --- !u!1 &1640655770
 GameObject:
